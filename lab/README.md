@@ -81,3 +81,7 @@ Select **Next >** to go to the first exercise.
 ===
 
 !INSTRUCTIONS [Exercise 4: Enable Agentic Features](https://raw.githubusercontent.com/microsoft/msbuild-lab335-agentic-rag/refs/heads/main/lab/exercise-4-enable-agentic-features.md)
+
+===
+
+!INSTRUCTIONS [Wrap-Up](https://raw.githubusercontent.com/microsoft/msbuild-lab335-agentic-rag/refs/heads/main/lab/wrap-up.md)

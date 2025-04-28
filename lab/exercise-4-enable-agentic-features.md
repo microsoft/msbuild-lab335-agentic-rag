@@ -60,5 +60,4 @@ If you enabled evaluation in Exercise 1, you can now re-run the evaluator to com
 
     >[!TIP]
     > You don’t need to regenerate ground truth unless your documents or questions changed. The goal here is to measure how reasoning quality and citation accuracy evolve with agentic logic.
-
     
