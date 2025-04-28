@@ -56,7 +56,9 @@ Next you need to complete the following setup steps to authenticate to Azure and
 Now you're ready to complete the exercises in this lab. The lab includes multiple exercises, so when you finish one, just move onto the next one. The exercises in this lab are:
 
 - Exercise 1: Run Locally and Explore Retrieval Modes
-- Exercise 2: Enable Agentic Features
+- Exercise 2: Explore Semantic Ranking in Azure AI Search
+- Exercise 3: (Optional) Run Automated Evaluation for Retrieval Modes
+- Exercise 4: Enable Agentic Features
 
 The exercises are designed to be completed in order because they build on the data and resources created in the previous exercises, so make sure you complete each exercise before moving on to the next one.
 
@@ -73,7 +75,9 @@ Select **Next >** to go to the first exercise.
 !INSTRUCTIONS [Exercise 2: Explore Semantic Ranking in Azure AI Search](https://raw.githubusercontent.com/microsoft/msbuild-lab335-agentic-rag/refs/heads/main/lab/exercise-2-adjust-semantic-ranker.md)
 
 ===
+
 !INSTRUCTIONS [Exercise 3: (Optional) Run Automated Evaluation for Retrieval Modes](https://raw.githubusercontent.com/microsoft/msbuild-lab335-agentic-rag/refs/heads/main/lab/exercise-3-optional-automated-evaluation.md)
 
 ===
+
 !INSTRUCTIONS [Exercise 4: Enable Agentic Features](https://raw.githubusercontent.com/microsoft/msbuild-lab335-agentic-rag/refs/heads/main/lab/exercise-4-enable-agentic-features.md)
