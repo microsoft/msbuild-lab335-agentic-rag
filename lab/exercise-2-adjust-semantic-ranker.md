@@ -37,3 +37,7 @@ Take note of the following:
 - How many steps were used to generate the answer?
 - Does the query re-writing step produce a better search query? Could it be improved?
 - Do the search results seem relevant to the user's question?
+
+## Next Step
+
+> Select **Next >** to go to the next exercise on automated evaluation for retrieval modes. This exercise is optional.

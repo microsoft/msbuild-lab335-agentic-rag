@@ -33,3 +33,7 @@ In this exercise, you will run the app locally and explore the different retriev
     By applying the **Hybrid** retrieval mode, the app will retrieve documents based on both semantic similarity (vector search) and keyword matching.
   
     Compare the two answers and note the differences. You will notice that the results have a stronger relevance and coverage.
+
+## Next Step
+
+> Select **Next >** to go to the next exercise on exploring semantic ranking in Azure AI Search.
