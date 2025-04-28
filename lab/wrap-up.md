@@ -1,4 +1,4 @@
-## Wrap-Up
+# Wrap-Up
 
 Congratulations! You've completed the lab and built your first Agentic RAG Solution.
 
