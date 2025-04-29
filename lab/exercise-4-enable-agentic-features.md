@@ -42,7 +42,13 @@ If you enabled evaluation in Exercise 1, you can now re-run the evaluator to com
 
 1. Make sure you completed Step 1 and the app is deployed with agentic features.
 
-1. Run the evaluator on your app by running the following command in the terminal:
+1. Before running evaluation with agentic features, make sure to run the app locally. Open the terminal in VS Code, run the following commands to start the app locally:
+
+    +++cd app+++
+    
+    +++./start.ps1+++
+
+1. Open a new terminal while your app is running locally and run the evaluator on your app by copying the following command in the terminal:
 
     +++*python evals/evaluate.py --numquestions=5 --resultsdir=evals/results/firstfive-agentic*+++
 
