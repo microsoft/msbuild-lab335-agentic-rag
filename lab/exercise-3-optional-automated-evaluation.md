@@ -2,7 +2,13 @@
 
 In this optional exercise, you will follow a series of steps to evaluate the quality of the answers and assess the performance of each retrieval mode. This process will help you understand how different retrieval strategies impact the results.
 
-1. Enable evaluation in your environment by running the following command in the terminal:
+1. Make sure the app is running locally before running evaluation. If you closed the app, you can open the terminal in VS Code, run the following commands to start the app locally:
+
+    +++cd app+++
+    
+    +++./start.ps1+++
+   
+1. Once your app is running locally, open another terminal and enable evaluation in your environment by running the following command in the terminal:
 
     +++*azd env set USE_EVAL true*+++
 
@@ -27,7 +33,7 @@ In this optional exercise, you will follow a series of steps to evaluate the qua
 
 1. Run the evaluator on your app by running the following command in the terminal:
 
-    +++*python evals/evaluate.py --numquestions=5 --resultsdir=firstdive*+++
+    +++*python evals/evaluate.py --numquestions=5 --resultsdir=evals/results/firstdive*+++
 
 1. Review the evaluation results by running the following command in the terminal:
 
