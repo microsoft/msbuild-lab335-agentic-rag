@@ -40,17 +40,11 @@ Compare your answers before and after enabling agentic features manually first. 
 
 If you enabled evaluation in Exercise 1, you can now re-run the evaluator to compare how the system performs with agentic capabilities turned on.
 
-1. Make sure the app is deployed with agentic features:
-
-    +++*azd env set USE_AGENTIC_RETRIEVAL true*+++
-
-    +++*azd env set USE_AGENTIC_REFLECTION true*+++
-
-    +++*azd up*+++
+1. Make sure you completed Step 1 and the app is deployed with agentic features.
 
 1. Run the evaluator on your app by running the following command in the terminal:
 
-    +++*python evals/evaluate.py --numquestions=5 --resultsdir=firstfive-agentic*+++
+    +++*python evals/evaluate.py --numquestions=5 --resultsdir=evals/results/firstfive-agentic*+++
 
     This will create a new results folder in **firstfive-agentic** with an evaluation of the first five answers.
 
