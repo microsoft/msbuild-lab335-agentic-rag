@@ -56,7 +56,7 @@ If you enabled evaluation in Exercise 1, you can now re-run the evaluator to com
 
 1. Compare the new results with the baseline:
 
-    +++*python -m evaltools diff evals/results/firstfive evals/results/firstdive-agentic*+++
+    +++*python -m evaltools diff evals/results/firstfive evals/results/firstfive-agentic*+++
 
     >[!TIP]
     > You don’t need to regenerate ground truth unless your documents or questions changed. The goal here is to measure how reasoning quality and citation accuracy evolve with agentic logic.
