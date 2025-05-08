@@ -33,7 +33,7 @@ In this optional exercise, you will follow a series of steps to evaluate the qua
 
 1. Run the evaluator on your app by running the following command in the terminal:
 
-    +++*python evals/evaluate.py --numquestions=5 --resultsdir=evals/results/firstdive*+++
+    +++*python evals/evaluate.py --numquestions=5 --resultsdir=evals/results/firstfive*+++
 
 1. Review the evaluation results by running the following command in the terminal:
 
