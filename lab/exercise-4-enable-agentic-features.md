@@ -8,8 +8,6 @@ Run the following command in the terminal to redeploy the app with agentic featu
 
 +++*azd env set USE_AGENTIC_RETRIEVAL true*+++
 
-+++*azd env set USE_AGENTIC_REFLECTION true*+++
-
 +++*azd up*+++
 
 This will take a few minutes to complete. You can monitor the progress in the terminal window.
