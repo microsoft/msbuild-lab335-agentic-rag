@@ -1,6 +1,6 @@
 # Exercise 1: Run the App Locally and Explore Retrieval Modes
 
-In this exercise, you will run the app locally and explore the different retrieval modes available in the app. Let's begin by exploring how different search configurations change the quality of answers. 
+In this exercise, you will run the app locally and explore the different retrieval modes available in the app. Let's begin by exploring how different search configurations change the quality of answers.
 
 ## Step 1: Start the App Locally
 
@@ -20,7 +20,7 @@ In this exercise, you will run the app locally and explore the different retriev
 
 1. From the homepage, select **Developer Settings**, this opens a panel that allows you to experiment with different search and answer generation parameters.
 
-1. In this panel, scroll down to the **Retrieval Mode** dropdown. Select **Vectors** from the dropdown. Close the panel ask the following question: 
+1. In this panel, scroll down to the **Retrieval Mode** dropdown. Select **Vectors** from the dropdown. Close the panel ask the following question:
 
     +++*What’s included in the Business plan?*+++
 

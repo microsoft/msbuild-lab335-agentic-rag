@@ -31,6 +31,9 @@ Next you need to complete the following setup steps to authenticate to Azure and
 
 1. Open the **.azure/Lab335.../.env** file and only continue with the next steps if the file contains 45 environment variables.
 
+>[!TIP]
+> It can take approximately 15 minutes to have all the environment variables populated. Wait until the file is populated before continuing with the next steps.
+
 1. In VS Code, open the terminal by selecting **Terminal** > **New Terminal** from the menu bar.
 
 1. In the terminal window run the following command to to authenticate to azure:

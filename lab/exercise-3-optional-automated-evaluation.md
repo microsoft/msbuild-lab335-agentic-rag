@@ -5,10 +5,12 @@ In this optional exercise, you will follow a series of steps to evaluate the qua
 1. Make sure the app is running locally before running evaluation. If you closed the app, you can open the terminal in VS Code, run the following commands to start the app locally:
 
     +++cd app+++
-    
+
     +++./start.ps1+++
-   
-1. Once your app is running locally, open another terminal and enable evaluation in your environment by running the following command in the terminal:
+
+1. Once your app is running locally, open another terminal by selecting **Terminal** > **New Terminal** from the menu bar.
+
+1. Enable evaluation in your environment by running the following command in the terminal:
 
     +++*azd env set USE_EVAL true*+++
 
@@ -34,6 +36,8 @@ In this optional exercise, you will follow a series of steps to evaluate the qua
 1. Run the evaluator on your app by running the following command in the terminal:
 
     +++*python evals/evaluate.py --numquestions=5 --resultsdir=evals/results/firstfive*+++
+
+    This will add a new folder called **firstfive** to the **evals/results/** directory. This folder contains the evaluation results for the first five questions in the ground truth file.
 
 1. Review the evaluation results by running the following command in the terminal:
 

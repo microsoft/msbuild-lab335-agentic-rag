@@ -10,7 +10,7 @@ Run the following command in the terminal to redeploy the app with agentic featu
 
 +++*azd up*+++
 
-This will take a few minutes to complete. You can monitor the progress in the terminal window.
+This will take a few minutes to complete. You can monitor the progress in the terminal window. Once complete you will see the endpoint url for the deployed app in the terminal. **CTRL + Click** the URL to open the app in your browser.
 
 ## Step 2: Test the App with Agentic Features
 
