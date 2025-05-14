@@ -34,6 +34,9 @@ Take note of the following:
 
 ## Step 3: (Optional) Re-Run Automated Evaluation with Agentic Features
 
+> [!TIP]
+> Make sure to complete Exercise 3 before proceeding with this step.
+
 Compare your answers before and after enabling agentic features manually first. You can log scores or just discuss with others what has changed.
 
 If you enabled evaluation in Exercise 1, you can now re-run the evaluator to compare how the system performs with agentic capabilities turned on.
