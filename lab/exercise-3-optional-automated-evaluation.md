@@ -1,8 +1,11 @@
 # Exercise 3: (Optional) Run Automated Evaluation for Retrieval Modes
 
+> [!TIP]
+> If you want to test the Agentic features without evaluation, you can skip this exercise and jump into the Exercise 4.
+ 
 In this optional exercise, you will follow a series of steps to evaluate the quality of the answers and assess the performance of each retrieval mode. This process will help you understand how different retrieval strategies impact the results.
 
-1. Make sure the app is running locally before running evaluation. If you closed the app, you can open the terminal in VS Code, run the following commands to start the app locally:
+1. Run the app locally before running evaluation. Open the terminal in VS Code, run the following commands to start the app locally:
 
     +++cd app+++
 
@@ -20,13 +23,9 @@ In this optional exercise, you will follow a series of steps to evaluate the qua
 
     This will take a few minutes to complete. You can monitor the progress in the terminal window.
 
-1. Set up a virtual environment for evaluation by running the following command in the terminal:
-
-    +++*python -m venv .evalenv*+++
+1. Start the pre-set virtual environment for evaluation by running the following command in the terminal:
 
     +++*.evalenv\Scripts\Activate*+++
-
-    +++*pip install -r evals/requirements.txt*+++
 
 1. Open the **evals/ground_truth.jsonl** file and look through the current ground truth answers.
 
@@ -49,7 +48,10 @@ In this optional exercise, you will follow a series of steps to evaluate the qua
 
     +++*python -m evaltools diff evals/results/baseline evals/results/firstfive*+++
 
-    This will show you the questions and answers from your run as compared to the baseline. They should be fairly similar, since the app configuration is the same, but there may be differences due to the non-determinism of LLMs.
+    This will show you the questions and answers from your run as compared to the baseline. They should be fairly similar, since the app configuration is the same, but there may be differences due to the non-determinism of LLMs. 
+
+> [!TIP]
+> Quit the eval tool before proceeding and close the terminals.
 
 ## Next Step
 
