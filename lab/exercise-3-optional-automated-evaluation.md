@@ -51,7 +51,7 @@ In this optional exercise, you will follow a series of steps to evaluate the qua
     This will show you the questions and answers from your run as compared to the baseline. They should be fairly similar, since the app configuration is the same, but there may be differences due to the non-determinism of LLMs. 
 
 > [!TIP]
-> Quit the eval tool before proceeding.
+> Quit the eval tool before proceeding and close the terminals.
 
 ## Next Step
 
