@@ -17,13 +17,13 @@ In this exercise, you will explore the different retrieval modes available in th
 
 1. In this panel, scroll down to the **Retrieval Mode** dropdown. Select **Vectors** from the dropdown. Close the panel ask the following question:
 
-    +++*What’s included in the Business plan?*+++
+    +++*What is included in my Northwind Health Plus plan that is not in standard?*+++
 
     By applying the **Vectors** retrieval mode, the app will retrieve documents purely on semantic similarity. Note the quality of the answer and the relevance of the citations.
 
 1. Next, switch the **Retrieval Mode** back to **Vectors + Text(Hybrid)**. Close the panel and ask the same question again:
 
-    +++*What’s included in the Business plan?*+++
+    +++*What is included in my Northwind Health Plus plan that is not in standard?*+++
 
     By applying the **Hybrid** retrieval mode, the app will retrieve documents based on both semantic similarity (vector search) and keyword matching.
   
