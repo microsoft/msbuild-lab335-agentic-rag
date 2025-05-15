@@ -23,13 +23,9 @@ In this optional exercise, you will follow a series of steps to evaluate the qua
 
     This will take a few minutes to complete. You can monitor the progress in the terminal window.
 
-1. Set up a virtual environment for evaluation by running the following command in the terminal:
-
-    +++*python -m venv .evalenv*+++
+1. Start the pre-set virtual environment for evaluation by running the following command in the terminal:
 
     +++*.evalenv\Scripts\Activate*+++
-
-    +++*pip install -r evals/requirements.txt*+++
 
 1. Open the **evals/ground_truth.jsonl** file and look through the current ground truth answers.
 
