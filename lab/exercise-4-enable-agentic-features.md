@@ -50,8 +50,6 @@ If you enabled evaluation in Exercise 1, you can now re-run the evaluator to com
     +++./start.ps1+++
 
 1. Open a new terminal while your app is running locally and run the evaluator on your app by copying the following command in the terminal:
-
-    +++python -m venv .evalenv+++
     
     +++.evalenv\Scripts\Activate+++
 
