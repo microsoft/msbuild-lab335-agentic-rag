@@ -51,6 +51,10 @@ If you enabled evaluation in Exercise 1, you can now re-run the evaluator to com
 
 1. Open a new terminal while your app is running locally and run the evaluator on your app by copying the following command in the terminal:
 
+    +++python -m venv .evalenv+++
+    
+    +++.evalenv\Scripts\Activate+++
+
     +++*python evals/evaluate.py --numquestions=5 --resultsdir=evals/results/firstfive-agentic*+++
 
     This will create a new results folder in **firstfive-agentic** with an evaluation of the first five answers.
