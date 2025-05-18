@@ -4,16 +4,17 @@ In this exercise, you will explore the different retrieval modes available in th
 
 ## Step 1: Open the App in your Browser
 
-1. At the end of successfully running azd up, you'll see the URL of your deployed app in your terminal. 
+1. From the previous set up exercise, you success fully deployed the app to Azure with the *azd up* command. You need to ensure that step completed successfully before proceeding with this exercise.
 
-1. Open the **Microsoft Edge** browser and open your app URL. Note that this URL will be different for you.
-   
+1. To verify that your deployment was successful, you should find a URL in the terminal that points to the deployed app. Use **CTRL + Click** on the URL to open the app in your browser or copy the URL and paste it into your browser.
+
     ![Screenshot 2025-05-14 at 6 12 33 PM](https://github.com/user-attachments/assets/57104952-2e55-434d-a38a-869ede36cb54)
-
 
 ## Step 2: Explore the Retrieval Modes
 
 1. From the homepage, select **Developer Settings**, this opens a panel that allows you to experiment with different search and answer generation parameters.
+
+    ![Developer Settings](/images/developer-settings.png)
 
 1. In this panel, scroll down to the **Retrieval Mode** dropdown. Select **Vectors** from the dropdown. Close the panel ask the following question:
 
