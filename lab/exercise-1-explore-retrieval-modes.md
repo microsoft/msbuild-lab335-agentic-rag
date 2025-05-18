@@ -14,7 +14,7 @@ In this exercise, you will explore the different retrieval modes available in th
 
 1. From the homepage, select **Developer Settings**, this opens a panel that allows you to experiment with different search and answer generation parameters.
 
-    ![Developer Settings](/images/developer-settings.png)
+    ![Developer Settings](https://raw.githubusercontent.com/microsoft/msbuild-lab335-agentic-rag/refs/heads/main/images/developer-settings.png)
 
 1. In this panel, scroll down to the **Retrieval Mode** dropdown. Select **Vectors** from the dropdown. Close the panel ask the following question:
 

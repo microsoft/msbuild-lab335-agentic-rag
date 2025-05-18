@@ -30,7 +30,7 @@ Once complete you will see the endpoint url for the deployed app in the terminal
 
 1. For each answer, observe the difference in the process used to generate the answer in the **Thought process** tab. Too open the **Thought process** tab, select the lightbulb icon in the answer.
 
-    ![Thought process](/images/thought-process.png)
+    ![Thought process](https://raw.githubusercontent.com/microsoft/msbuild-lab335-agentic-rag/refs/heads/main/images/thought-process.png)
 
 1. Take note of the following:
 
