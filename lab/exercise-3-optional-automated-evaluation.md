@@ -12,9 +12,9 @@ In this exercise, you will follow a series of steps to evaluate the quality of t
     +++./start.ps1+++
    
 > [!TIP]
-> Keep the app running in this terminal locally. Open a new terminal for the following steps.
+> You may see a pop-up message in VS Code about **Python environment prompt**. This appears when you run the app locally for the first time. You can safely ignore it and select **No**.
 
-1. Once your app is running locally, open another terminal by selecting **Terminal** > **New Terminal** from the menu bar.
+1. Keep the app running in the terminal locally. Open a new terminal for the following steps. Select **Terminal** > **New Terminal** from the menu bar.
 
 1. Enable evaluation in your environment by running the following command in the terminal:
 
