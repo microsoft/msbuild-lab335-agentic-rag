@@ -28,13 +28,9 @@ Run the following command to open the project in Visual Studio Code:
 
 +++code .+++
 
-When prompted whether to trust the authors of the files, select **Yes, I trust the authors**.
-
 > [!TIP]
-> You may see pop-up message in VS Code **Dev Container prompt**. This appears when you first open the app folder. Select **Don’t Show Again** or close it, as you won’t be using a container in this lab.
-> 
-> <img width="447" alt="Screenshot 2025-05-20 at 7 38 10 AM" src="https://github.com/user-attachments/assets/177fdb8f-c4e9-4963-bbfe-e45d209b9caa" />
-
+> * When prompted whether to trust the authors of the files, select **Yes, I trust the authors**.
+> * You may see pop-up message in VS Code **Dev Container prompt**. This appears when you first open the app folder. Select **Don’t Show Again** or close it, as you won’t be using a container in this lab.
 
 ## Authenticate and Deploy Resources to Azure
 
