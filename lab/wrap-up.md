@@ -12,12 +12,12 @@ In this lab, you learned how to:
 
 Next steps:
 
-- customize the UI and prompts.
-- Try different documents and domains.
+- Customize the UI and prompts
+- Try different documents and domains
 - Fork the repo from [here](https://github.com/Azure-Samples/azure-search-openai-demo)
 
 ## Resources
 
-- GitHub: [https://github.com/Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo)
-- Azure AI Search Docs: [https://learn.microsoft.com/en-us/azure/search/](https://learn.microsoft.com/en-us/azure/search/)
-- Learn more about RAG: [https://aka.ms/rag-time](https://aka.ms/rag-time)
+- [Azure Search + OpenAI Demo (GitHub)](https://github.com/Azure-Samples/azure-search-openai-demo)
+- [Azure AI Search Documentation](https://learn.microsoft.com/en-us/azure/search/)
+- [Learn More About RAG (RAG Time)](https://aka.ms/rag-time)
