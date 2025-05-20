@@ -18,7 +18,7 @@ Next, we will test how well the app performs using a small set of tricky questio
 
 ## Step 2: Test the App with Tricky Questions
 
-Use a few of the following sample questions to test the app. You can ask the questions in any order. For each question, note the quality of the answer and the relevance of the citations.
+These questions are more complex and multi-layered, designed to challenge the retrieval and reranking logic. Use a few of the following sample questions to test the app. You can ask the questions in any order. For each question, note the quality of the answer and the relevance of the citations.
 
 - +++Can you explain the eligibility criteria for the Northwind Standard plan offered to Contoso employees?+++
 - +++What are the financial implications of choosing an out-of-network provider under the Northwind Standard Benefits plans?+++
