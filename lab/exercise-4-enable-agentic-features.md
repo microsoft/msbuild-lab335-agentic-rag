@@ -36,7 +36,6 @@ Once complete you will see the endpoint url for the deployed app in the terminal
 
     - Do the search results look different?
     - Does the RAG process take more steps than before?
-    - Does the answer improve after reflection?
 
 ## Step 3: (Optional) Re-Run Automated Evaluation with Agentic Features
 
