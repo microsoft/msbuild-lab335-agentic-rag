@@ -18,7 +18,7 @@ Once complete you will see the endpoint url for the deployed app in the terminal
 
 1. Once you have the app open in your browser, select **Developer Settings** from the top right corner of the app. Check the **Use agentic retrieval** checkbox and close the panel.
 
-1. Use the same 5 questions you used in the previous exercise to test the app. You can ask the questions in any order.
+1. Use the same questions you used in the previous exercise to test the app. You can ask the questions in any order.
 
     - +++Can you explain the eligibility criteria for the Northwind Standard plan offered to Contoso employees?+++
     - +++What are the financial implications of choosing an out-of-network provider under the Northwind Standard Benefits plans?+++
