@@ -1,6 +1,6 @@
 # Exercise 4: Enable Agentic Features
 
-In this exercise, you will turn on features that allow the system to reason across multiple steps and refine its answers.
+In this exercise, you will turn on features that allow the system to reason across multiple steps and refine its answers. These features allow the system to rewrite queries, perform multi-step retrieval, and reflect on results before responding.
 
 ## Step 1: Enable Agentic Retrieval and Reflection
 
@@ -28,7 +28,7 @@ Once complete you will see the endpoint url for the deployed app in the terminal
     - +++What are the financial responsibilities of a Northwind Standard plan holder when using out-of-network providers?+++
     - +++Does Northwind Health cover full costs?+++
 
-1. For each answer, observe the difference in the process used to generate the answer in the **Thought process** tab. Too open the **Thought process** tab, select the lightbulb icon in the answer.
+1. For each answer, observe the difference in the process used to generate the answer in the **Thought process** tab. To open the **Thought process** tab, select the lightbulb icon in the answer.
 
     ![Thought process](media/thought-process.png)
 
@@ -48,7 +48,7 @@ If you enabled evaluation in Exercise 1, you can now re-run the evaluator to com
 
 1. Make sure you completed Step 1 and the app is deployed with agentic features.
 
-1. Open the **evals/evaluate_config.json** file in your code editor and then add +++"use_agentic_retrieval": true+++ to the **"overrides"** parameters in the JSON file. Make sure to put comma before and after the new parameter.
+1. Open the **evals/evaluate_config.json** file in your code editor and then add +++"use_agentic_retrieval": true+++ to the **"overrides"** section in the JSON file and ensure it’s separated by commas from other parameters.
 
 1. Before running evaluation with agentic features, make sure to run the app locally. Open the terminal in VS Code, run the following commands to start the app locally:
 
