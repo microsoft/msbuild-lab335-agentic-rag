@@ -1,15 +1,18 @@
 # Exercise 3: (Optional) Run Automated Evaluation for Retrieval Modes
 
 > [!TIP]
-> If you want to test the Agentic features without evaluation, you can skip this exercise and jump into the Exercise 4.
+> This step is optional. If you'd prefer to skip automated evaluation and go directly to agentic features, proceed to Exercise 4: Enable Agentic Features.
  
-In this optional exercise, you will follow a series of steps to evaluate the quality of the answers and assess the performance of each retrieval mode. This process will help you understand how different retrieval strategies impact the results.
+In this exercise, you will follow a series of steps to evaluate the quality of the answers and assess the performance of each retrieval mode. You'll evaluate answer quality by comparing model-generated responses to predefined ground truth answers, helping you understand how each retrieval strategy affects output accuracy.
 
 1. Run the app locally before running evaluation. Open the terminal in VS Code, run the following commands to start the app locally:
 
     +++cd app+++
 
     +++./start.ps1+++
+   
+> [!TIP]
+> Keep the app running in this terminal locally. Open a new terminal for the following steps.
 
 1. Once your app is running locally, open another terminal by selecting **Terminal** > **New Terminal** from the menu bar.
 
