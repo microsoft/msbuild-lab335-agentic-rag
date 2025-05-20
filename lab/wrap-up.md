@@ -8,16 +8,16 @@ In this lab, you learned how to:
 - Explore different retrieval modes and their impact on answer quality.
 - Adjust the semantic ranker to improve answer quality.
 - Evaluate your app's retrieval accuracy.
-- Enable agentic features to enhance the app's reasoning capabilities by introducing dynamic reasoning and multi-step thinking.
+- Enable agentic features to introduce dynamic retrieval, multi-step reasoning, and reflection into your app.
 
-Next steps:
+## Next steps
 
-- customize the UI and prompts.
-- Try different documents and domains.
 - Fork the repo from [here](https://github.com/Azure-Samples/azure-search-openai-demo)
+- Customize the UI and prompts
+- Try different documents and domains
 
 ## Resources
 
-- GitHub: [https://github.com/Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo)
-- Azure AI Search Docs: [https://learn.microsoft.com/en-us/azure/search/](https://learn.microsoft.com/en-us/azure/search/)
-- Learn more about RAG: [https://aka.ms/rag-time](https://aka.ms/rag-time)
+- [Azure Search + OpenAI Demo (GitHub)](https://github.com/Azure-Samples/azure-search-openai-demo)
+- [Azure AI Search Documentation](https://learn.microsoft.com/en-us/azure/search/)
+- [Learn More About RAG (RAG Time)](https://aka.ms/rag-time)
