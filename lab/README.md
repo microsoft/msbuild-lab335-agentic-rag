@@ -65,7 +65,7 @@ Now you're ready to complete the exercises in this lab. The lab includes multipl
 
 The exercises are designed to be completed in order because they build on the data and resources created in the previous exercises, so make sure you complete each exercise before moving on to the next one.
 
-Don't worry if you run out of time to complete the entire lab. All of these exercises (and more) are available on [RAG Time](https://aka.ms/rag-time).
+Don't worry if you run out of time to complete the entire lab. All of these exercises are available on [our repo](https://aka.ms/msbuild-lab335).
 
 Select **Next >** to go to the first exercise.
 
