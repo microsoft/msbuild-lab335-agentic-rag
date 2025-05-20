@@ -64,6 +64,12 @@ If you enabled evaluation in Exercise 1, you can now re-run the evaluator to com
 
     This will create a new results folder in **firstfive-agentic** with an evaluation of the first five answers.
 
+1. Review the evaluation results by running the following command in the terminal:
+
+    +++*python -m evaltools summary evals/results*+++
+
+    This will show you the overall evaluation metrics across evaluation runs.
+
 1. Compare the new results with the baseline:
 
     +++*python -m evaltools diff evals/results/firstfive evals/results/firstfive-agentic*+++
