@@ -48,7 +48,7 @@ If you enabled evaluation in Exercise 1, you can now re-run the evaluator to com
 
 1. Make sure you completed Step 1 and the app is deployed with agentic features.
 
-1. Open the **evals/evaluate_config.json** file in your code editor and then add +++"use_agentic_retrieval": true+++ to the **"overrides"** parameters in the JSON file.
+1. Open the **evals/evaluate_config.json** file in your code editor and then add +++"use_agentic_retrieval": true+++ to the **"overrides"** parameters in the JSON file. Make sure to put comma before and after the new parameter.
 
 1. Before running evaluation with agentic features, make sure to run the app locally. Open the terminal in VS Code, run the following commands to start the app locally:
 
